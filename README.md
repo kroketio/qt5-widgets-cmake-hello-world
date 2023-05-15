@@ -1,8 +1,8 @@
 ## Sample Qt 5.15 (QtWidgets) CMake hello world
 
-Sample QtWidgets application with some extras:
+Sample QtWidgets application (+extras):
 
-- Qt 17, CMake, CCache
+- C++ 17, Qt5.15, CMake, CCache
 - Main and About window
 - Embedded Qt resource (QRC) 
 - static utils class
