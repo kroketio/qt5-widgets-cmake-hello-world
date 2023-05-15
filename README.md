@@ -8,6 +8,13 @@ Sample QtWidgets application with some extras:
 - static utils class
 - Config directory + config file
 
+See also:
+
+- Qt5 QtWidgets template (this): [qt5-widgets-cmake-hello-world](https://github.com/kroketio/qt5-widgets-cmake-hello-world)
+- Qt5 QML template: [qt5-qml-cmake-hello-world](https://github.com/kroketio/qt5-qml-cmake-hello-world)
+- Qt5 Widgets + QML template: [qt5-widgets-qml-cmake-hello-world](https://github.com/kroketio/qt5-widgets-qml-cmake-hello-world)
+
+
 ### Installation (Linux / Mac OS)
 
 To build, run:
